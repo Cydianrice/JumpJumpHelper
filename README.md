@@ -52,9 +52,3 @@
 
 ![mathematica](https://i.loli.net/2018/01/01/5a4a3b643dc30.png)
 
-## 参考资料
-
-|项目|作者|
-|---|---|
-|[教你用Python来玩微信跳一跳](https://github.com/wangshub/wechat_jump_game)|[@wangshub](https://github.com/wangshub)|
-|[微信跳一跳自动玩耍工具](https://github.com/aOrz/wx_jump_game)|[@aOrz](https://github.com/aOrz)|
